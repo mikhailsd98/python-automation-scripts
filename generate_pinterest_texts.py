@@ -47,11 +47,7 @@ def setup_signals():
 # --- КОНФИГ ДЛЯ GEMINI (адаптировано из fetch_tmdb_movies.py) ---
 GEMINI_API_KEYS = [
     # "AIzaSyDRim4WhYM2iXlf7sYTaIjWJ_1kx9Q62dQ",
-    "AIzaSyBCyPgGyGyOD2iBGwnhWY4GtGr__fJZ_sk",
-    "AIzaSyCn41iq0IcG-sPV27hHZQVtNTNYDleDnFs",
-    "AIzaSyA-pBPECS91lPpG_TfS82i5jlRj2LPbcLU",
-    "AIzaSyC3ZZlvgw67VS9bYjBuoNWeTRilzH9EpVc",
-    "AIzaSyAf9xq74b40OMAFx2tmjzSxIFnlDBfXmlI",
+    "Your_gemini_api_keys",
     # "AIzaSyAmD3Nv6WcdBK3aoLAlARcQsvqv-RqTSCo",
     # "AIzaSyDSvSIUZooqz746y6CVA7IoGjFrDWyj5L4",
     # "AIzaSyCI0qt3OOliBaM_QOztawFqmBMo5AGw_kY",
