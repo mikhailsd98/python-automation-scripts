@@ -60,11 +60,7 @@ def _load_api_keys() -> list[str]:
 
     # Fallback (existing behaviour in this repo)
     return [
-        "AIzaSyA-pBPECS91lPpG_TfS82i5jlRj2LPbcLU",
-        "AIzaSyC3ZZlvgw67VS9bYjBuoNWeTRilzH9EpVc",
-        "AIzaSyBCyPgGyGyOD2iBGwnhWY4GtGr__fJZ_sk",
-        "AIzaSyCn41iq0IcG-sPV27hHZQVtNTNYDleDnFs",
-        "AIzaSyAf9xq74b40OMAFx2tmjzSxIFnlDBfXmlI",
+        "Your_gemini_api_keys",
     ]
 
 
