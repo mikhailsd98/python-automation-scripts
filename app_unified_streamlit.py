@@ -12292,11 +12292,7 @@ with tab6:
 
     # --- Gemini API config (mirrors generate_pinterest_texts.py, text-only variant) ---
     GEMINI_API_KEYS = [
-        "AIzaSyA-pBPECS91lPpG_TfS82i5jlRj2LPbcLU",
-        "AIzaSyC3ZZlvgw67VS9bYjBuoNWeTRilzH9EpVc",
-        "AIzaSyBCyPgGyGyOD2iBGwnhWY4GtGr__fJZ_sk",
-        "AIzaSyCn41iq0IcG-sPV27hHZQVtNTNYDleDnFs",
-        "AIzaSyAf9xq74b40OMAFx2tmjzSxIFnlDBfXmlI",
+        "Your_api_key_here",
     ]
     MODELS = [
         "models/gemini-2.5-flash",
